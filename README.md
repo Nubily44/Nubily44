@@ -6,14 +6,10 @@
     Aopa 👋
     
     🌌 Student at USP, undergrad in Information Systems
-    
     📈 Jupyter, Scikit and more data analysis stuff.
-    
     🎆 Python for super fun cool projects, C for optimized ones, and Asm for a reason im still trying to find.
-        Also Java, sometimes, maybe? 
-        
+        Also Java, sometimes, maybe?
     📚 Brazilian Portuguese, English, Spanish and a bit of French
-    
     🎀 Call me Lily ;) (She/Her)
     
   </pre>
