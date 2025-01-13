@@ -6,8 +6,6 @@
 </pre>
 
 <div align = 'left'>
-  <pre>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=radical)
-  </pre>  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=radical)  
 </div>
 
