@@ -15,7 +15,9 @@
     🎀 Call me Lily ;) (She/Her)
     
   </pre>
-
+  <pre style="font-size: 16px; color: blue; white-space: pre-wrap;">
+  Customized pre text.
+  </pre>
   
   <div align = "left">  
     <pre>
