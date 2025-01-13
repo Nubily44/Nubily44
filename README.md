@@ -1,6 +1,6 @@
 <div align = "center">
   <div>
-    <img src="https://imgur.com/jPlwlQL" alt="Github Banner" align="center"/>
+    <img src="https://i.imgur.com/jPlwlQL.png" alt="Github Banner" align="center"/>
   </div>
   <pre align = 'left' style='font-size: 18px;'>
     Aopa 👋
