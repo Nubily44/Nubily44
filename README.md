@@ -2,7 +2,7 @@
 
 <div>  
   <pre>
-  <img height="145px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=radical/>
+  <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=radical"/>
   </pre>
 </div>
 
