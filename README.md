@@ -3,7 +3,9 @@
     <img src="https://i.imgur.com/jPlwlQL.png" alt="Github Banner" align="center"/>
   </div>
   <pre align = 'left' style='font-size: 18px;'>
-    Aopa 👋
+    <title>
+      Aopa 👋
+    </title>
     
     🌌 Student at USP, undergrad in Information Systems
     📈 Jupyter, Scikit and more data analysis stuff.
