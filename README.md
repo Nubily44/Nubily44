@@ -1,6 +1,5 @@
 <div>
   <img src="https://i.imgur.com/jPlwlQL.png" alt="Github Banner" align="center"/>
-  <pre>
     # Aopa 👋
     🌌 Student at USP, undergrad in Information Systems
     📈 Jupyter, Scikit and more data analysis stuff.
@@ -8,7 +7,6 @@
         Also Java, sometimes, maybe?
     📚 Brazilian Portuguese, English, Spanish and a bit of French
     🎀 Call me Lily ;) (She/Her)
-  </pre>
 </div>
 <div align = "left">  
   <pre>
