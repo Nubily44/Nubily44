@@ -1,7 +1,7 @@
-<div align = 'center'>
-<div>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/HHRcRg0"  ><a href="//imgur.com/a/HHRcRg0">Github</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
+<div align = "center">
+  <div>
+    <img src="https://imgur.com/jPlwlQL" alt="Github Banner" align="center"/>
+  </div>
   <pre align = 'left' style='font-size: 18px;'>
     Aopa 👋
     
@@ -14,7 +14,7 @@
   </pre>
 
   
-  <div align = 'left'>  
+  <div align = "left">  
     <pre>
     <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=radical"/> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=radical"/>
     </pre>
