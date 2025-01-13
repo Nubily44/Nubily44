@@ -6,7 +6,6 @@
   <p>🎆 Python for super fun cool projects, C for optimized ones, and Asm for a reason I'm still trying to find.  
      Also Java, sometimes, maybe?</p>
   <p>📚 Brazilian Portuguese, English, Spanish and a bit of French</p>
-  <p>🎀 Call me Lily ;) (She/Her)</p>
 </div>
 <div align = "left">  
   <pre>
