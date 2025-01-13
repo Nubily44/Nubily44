@@ -1,11 +1,6 @@
-
 <div align = 'center'>
-  <style>
-  pre{
-    font-size: 18px;
-  }
-</style>
-  <pre align = 'left'>
+
+  <pre align = 'left' style='font-size: 18px;'>
     Aopa 👋
     
     🌌 Student at USP, undergrad in Information Systems
