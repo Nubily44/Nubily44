@@ -2,7 +2,7 @@
   <div>
     <img src="https://i.imgur.com/jPlwlQL.png" alt="Github Banner" align="center"/>
   </div>
-  <pre align = 'left' style='font-size: 18px;'>
+  <pre align = 'left' style='font-size: 26px;'>
     Aopa 👋
     
     🌌 Student at USP, undergrad in Information Systems
