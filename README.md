@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/jPlwlQL.png" alt="Github Banner" align="center"/>
 </div>
 <pre>
-  
   # Aopa 👋
     
   🌌 Student at USP, undergrad in Information Systems
