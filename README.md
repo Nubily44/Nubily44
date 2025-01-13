@@ -1,3 +1,9 @@
+<style>
+  pre{
+    font-size: 18px;
+  }
+</style>
+
 <div align = 'center'>
   <pre align = 'left'>
     Aopa 👋
