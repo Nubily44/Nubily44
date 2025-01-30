@@ -3,7 +3,7 @@
   <h1 style="text-align: center;">Aopa 👋</h1>
   <p>🌌 Student at USP, undergrad in Information Systems</p>
   <p>📈 Jupyter, Scikit and more data analysis stuff.</p>
-  <p>🎆 Python for super fun cool projects, C for optimized ones, and Asm for a reason I'm still trying to find.  
+  <p>🎆 Python for super fun cool projects, C for optimized ones, and Asm for a reason I'm still trying to figure out.  
      Also Java, sometimes, maybe?</p>
   <p>📚 Brazilian Portuguese, English, Spanish and a bit of French</p>
 </div>
