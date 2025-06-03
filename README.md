@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.imgur.com/jPlwlQL.png" alt="Github Banner" style="display: block; margin: 0 auto;"/>
+  <img src="[https://i.imgur.com/jPlwlQL.png](https://imgur.com/a/pDDD0KR)" alt="Github Banner" style="display: block; margin: 0 auto;"/>
   <h1 style="text-align: center;">Aopa 👋</h1>
   <p>🌌 Student at USP, undergrad in Information Systems</p>
   <p>📈 Jupyter, Scikit and more data analysis stuff.</p>
