@@ -7,9 +7,27 @@
      Also Java, sometimes, maybe?</p>
   <p>📚 Brazilian Portuguese, English, Spanish and a bit of French</p>
 </div>
-<div align = "left">  
-  <pre>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=nightowl"/> <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=nightowl"/>
-  </pre>
+<div align=center>
+  <picture>
+    <source
+        height="180px"
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=nightowl">
+    <img 
+        height="180px"
+        alt="stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=nightowl">
+  </picture>
+  
+  <picture>
+    <source
+        height="180px"
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=nightowl">
+    <img 
+        height="180px"
+        alt="stats"
+        src="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=nightowl">
+  </picture>
 </div>
 
