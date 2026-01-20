@@ -9,7 +9,7 @@
 </div>
 <div align = "left">  
   <pre>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=jolly"/> <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=jolly"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubily44&layout=compact&theme=date_night"/> <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=date_night"/>
   </pre>
 </div>
 
