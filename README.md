@@ -29,7 +29,16 @@
         alt="stats"
         src="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=nightowl">
   </picture>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nubily44)](https://git.io/streak-stats)
 </div>
-
-
+<div align=center>
+<picture>
+    <source
+        height="180px"
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com/?user=Nubily44&theme=dark">
+    <img 
+        height="180px"
+        alt="stats"
+        src="https://streak-stats.demolab.com/?user=Nubily44&theme=dark">
+  </picture>
+</div>
