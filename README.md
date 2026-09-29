@@ -29,5 +29,7 @@
         alt="stats"
         src="https://github-readme-stats.vercel.app/api?username=Nubily44&show_icons=true&theme=nightowl">
   </picture>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nubily44)](https://git.io/streak-stats)
 </div>
+
 
